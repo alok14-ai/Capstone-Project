@@ -1,2 +1,2 @@
-# Capstone-Project
-Telco customer churn Project
+# Telco customer churn -Capstone-Project
+
